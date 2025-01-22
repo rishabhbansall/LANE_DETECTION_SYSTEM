@@ -1,7 +1,7 @@
 # PATHFLOW
 
 ## Overview
-PATHFLOW is a project developed by [Your Name] in collaboration with Ishita Garg and Uttara Chauhan. It utilizes computer vision and machine learning techniques to enhance urban road safety and traffic management. The project focuses on lane detection and e-challan issuance, enabling the recognition of road lane markers and the automated issuance of e-challans to violators. 
+PATHFLOW is a project developed by Rishabh Bansal in collaboration with Ishita Garg and Uttara Chauhan. It utilizes computer vision and machine learning techniques to enhance urban road safety and traffic management. The project focuses on lane detection and e-challan issuance, enabling the recognition of road lane markers and the automated issuance of e-challans to violators. 
 
 Beyond applications in autonomous vehicles, the technology has broader uses such as traffic management systems for monitoring traffic flow and accident detection. The e-challan system facilitates the electronic issuance of traffic infringement citations, thereby streamlining the process and improving efficiency. With the increasing availability of modern technology, PATHFLOW holds significant potential to contribute to road safety and traffic management in the coming years.
 
